@@ -10,7 +10,7 @@ Sebuah proyek dengan membuat program mesin ATM secara Object Oriented
 
 ## Overview
 Pada awal program, user diminta untuk memasukkan PIN (default = 1234). Jika salah sampai 3 kali, maka program akan keluar.
-Setelah user akan memilih fitur-fitur dari menu (yang akan di bahas selanjutnya)
+Setelah itu user akan memilih fitur-fitur dari menu
 
 ## Fitur-fitur
 1. Cek Saldo      = Untuk mengecek saldo sekarang (default = 10000)
